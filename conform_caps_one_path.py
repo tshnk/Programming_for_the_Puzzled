@@ -13,3 +13,4 @@ def pleaseConformOnepass(caps):
                 print(' though', i-1, 'flip your caps!')
 
 pleaseConformOnepass(cap1)
+pleaseConformOnepass(cap2)
